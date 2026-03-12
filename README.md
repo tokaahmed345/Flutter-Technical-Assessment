@@ -58,22 +58,17 @@ lib
 - **Views** → Main screens of the application
 
 ---
-
 <h2>📸 App Screenshots</h2>
 
 <p align="center">
-  <img src="" width="250"/>
+  <img src="screenshots/photo1.jpg" width="250"/>
   <img src="screenshots/photo2.jpg" width="250"/>
-    <img src="screenshots/photo3.jpg" width="250"/>
-      <img src="screenshots/photo4.jpg" width="250"/>
-
-
+  <img src="screenshots/photo3.jpg" width="250"/>
 </p>
 
 <p align="center">
-  <img src="screenshots/photo1.jpg" width="250"/>
+  <img src="screenshots/photo4.jpg" width="250"/>
   <img src="screenshots/photo5.jpg" width="250"/>
-
   <img src="screenshots/photo6.jpg" width="250"/>
 </p>
 ---
